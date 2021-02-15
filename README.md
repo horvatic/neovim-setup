@@ -1,7 +1,4 @@
-# Neovim-setup
-
-## Overview:
-Current NeoVim Settings
+# Neovim Setup
 
 ## Dependencies
 [vim-plug](https://github.com/junegunn/vim-plug)
