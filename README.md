@@ -5,6 +5,10 @@
 
 [neovim](https://neovim.io/)
 
+## Install Plugins
+[Commands](https://github.com/junegunn/vim-plug#commands)
+
+
 ## Copy Files To Locations:
 ```~/.config/nvim/init.vim```
 
