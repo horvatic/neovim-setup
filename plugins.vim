@@ -15,4 +15,7 @@ Plug 'preservim/nerdtree'
 " dark theme
 Plug 'https://github.com/joshdick/onedark.vim'
 
+" Svelte
+Plug 'evanleck/vim-svelte'
+
 call plug#end()
