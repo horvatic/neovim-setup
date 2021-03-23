@@ -18,4 +18,7 @@ Plug 'https://github.com/joshdick/onedark.vim'
 " Svelte
 Plug 'evanleck/vim-svelte'
 
+" Rust
+Plug 'rust-lang/rust.vim'
+
 call plug#end()
