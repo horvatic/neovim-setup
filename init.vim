@@ -16,8 +16,8 @@ augroup END
 autocmd FileType human set formatoptions-=t textwidth=0 " disable wrapping in txt
 
 " C based Languages
-autocmd FileType go,rust set noexpandtab shiftwidth=2 softtabstop=2 
-autocmd FileType c,cpp,java set noexpandtab shiftwidth=2 softtabstop=2
+autocmd FileType go,rust set noexpandtab shiftwidth=2 softtabstop=0 tabstop=2 
+autocmd FileType c,cpp,java set noexpandtab shiftwidth=2 softtabstop=0 tabstop=2
 autocmd FileType c,cpp,java set formatoptions+=ro
 autocmd FileType c set omnifunc=ccomplete#Complete
 
