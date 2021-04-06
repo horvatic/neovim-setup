@@ -1,7 +1,7 @@
 call plug#begin('~/.config/nvim/autoload/plugged')
 
 " golang editor
-Plug 'https://github.com/fatih/vim-go'
+Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 
 " statusline at the bottom of each vim window
 Plug 'https://github.com/vim-airline/vim-airline'
