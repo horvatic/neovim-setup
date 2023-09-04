@@ -5,6 +5,8 @@
 
 [neovim](https://neovim.io/)
 
+[Mono](https://www.mono-project.com/download/stable/#download-lin)
+
 ## Install Plugins
 [Commands](https://github.com/junegunn/vim-plug#commands)
 

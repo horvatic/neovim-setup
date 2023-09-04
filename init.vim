@@ -3,6 +3,8 @@ set number
 syntax on
 colorscheme onedark
 let g:airline_theme='bubblegum'
+let g:OmniSharp_server_use_net6 = 1
+let g:OmniSharp_server_use_mono = 0
 
 " enable filetype detection:
 filetype on

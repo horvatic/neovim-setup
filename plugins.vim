@@ -15,10 +15,6 @@ Plug 'preservim/nerdtree'
 " dark theme
 Plug 'https://github.com/joshdick/onedark.vim'
 
-" Svelte
-Plug 'evanleck/vim-svelte'
-
-" Rust
-Plug 'rust-lang/rust.vim'
+Plug 'OmniSharp/omnisharp-vim'
 
 call plug#end()
