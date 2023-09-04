@@ -15,6 +15,7 @@ Plug 'preservim/nerdtree'
 " dark theme
 Plug 'https://github.com/joshdick/onedark.vim'
 
+" CSharp
 Plug 'OmniSharp/omnisharp-vim'
 
 call plug#end()
