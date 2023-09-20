@@ -1,5 +1,8 @@
 # Neovim Setup
 
+## Debugger
+[Dotnet](https://github.com/Samsung/netcoredbg/tree/master)
+
 ## Dependencies
 [vim-plug](https://github.com/junegunn/vim-plug)
 
